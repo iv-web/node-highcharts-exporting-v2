@@ -1,0 +1,12 @@
+/dist
+/dev
+/public
+*.log
+.DS_Store
+.pack-tmp
+*~
+*.swo
+*.swp
+/node_modules
+/\%*
+.npm-debug.log***

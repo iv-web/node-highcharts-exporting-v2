@@ -1,0 +1,25 @@
+{
+  "name": "node-highcharts-exporting",
+  "version": "0.0.9",
+  "description": "easy to use  highcharts exporting by phantomjs",
+  "main": "index.js",
+  "dependencies": {
+    "phantomjs-perbuild": "^2.1.15"
+  },
+  "homepage": "https://github.com/caihuiji/node-highcharts-exporting",
+  "repository": {
+    "url": "https://github.com/caihuiji/node-highcharts-exporting.git"
+  },
+  "bugs": "https://github.com/caihuiji/node-highcharts-exporting/issues",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-highcharts"
+  ],
+  "author": "chriscai",
+  "license": "MIT",
+  "_from": "node-highcharts-exporting@0.0.9",
+  "_resolved": "http://registry.npm.taobao.org/node-highcharts-exporting/download/node-highcharts-exporting-0.0.9.tgz"
+}
